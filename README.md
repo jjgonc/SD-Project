@@ -1,2 +1,2 @@
 # SD-Project
-[2021-2022] Flight Booking Platform
+Flight Booking Platform using Client-Server model in Java with Sockets and Threads
